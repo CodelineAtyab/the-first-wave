@@ -1,0 +1,13 @@
+package com.codewave.thefirstwave;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class TheFirstWaveApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(TheFirstWaveApplication.class, args);
+	}
+
+}
