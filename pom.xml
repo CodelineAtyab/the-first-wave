@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>com.codewave</groupId>
 	<artifactId>the-first-wave</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>0.0.1</version>
 	<name>the-first-wave</name>
 	<description>Waves of awesomeness</description>
 	<properties>
